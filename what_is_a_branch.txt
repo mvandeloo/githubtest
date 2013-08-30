@@ -1,0 +1,2 @@
+if you need to work with different versions within a project - because you want to expirement or have added new features that to be tested first before merged with the original repository) you can use branches. a branch is a virtual variation of your master. It just contains a list of changes between master and branch. If the content of a branch works you can merge it with the master repository, if not you just skip it.
+

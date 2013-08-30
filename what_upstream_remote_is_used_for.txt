@@ -1,0 +1,3 @@
+'Upstream' means the original repository by someone else (if just clone a repository locally the original repository is called 'origin'). 
+
+If you wanna collaborate with someone and you want to make sure that you are working with the newest version of the original repository (if you fork it you get the version of the monent you forked it - and forking a resoitory twice is not possible) - you need to pull the code from the upstream repository and add it as remote repository.
